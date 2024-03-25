@@ -2,7 +2,16 @@
 
 ###
 <h4 align="center"> I'm a full stack developer</h4>
-                                                
+<style>
+  /* CSS for hover effects */
+  .email-link:hover img {
+    filter: brightness(85%); /* Adjust brightness to change the hover effect */
+  }
+
+  .linkedin-link:hover img {
+    filter: brightness(85%); /* Adjust brightness to change the hover effect */
+  }
+</style>                                             
 <div align="center">
   <a href="mailto:gaikwadashutosh35@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
