@@ -2,22 +2,16 @@
 
 ###
 <h4 align="center"> I'm a full stack developer</h4>
-<style>
-  /* CSS for hover effects */
-  .email-link:hover img {
-    filter: brightness(85%); /* Adjust brightness to change the hover effect */
-  }
 
-  .linkedin-link:hover img {
-    filter: brightness(85%); /* Adjust brightness to change the hover effect */
-  }
-</style>                                             
 <div align="center">
-  <a href="mailto:gaikwadashutosh35@gmail.com" target="_blank">
+  <a href="mailto:gaikwadashutosh35@gmail.com" target="_blank" style="filter: brightness(100%);">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
- <a href="https://www.linkedin.com/in/ashutosh-gaikwad-aa7335194/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+  <a href="https://www.linkedin.com/in/ashutosh-gaikwad-aa7335194/" target="_blank" rel="noopener noreferrer" style="filter: brightness(100%);">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  </a>
 </div>
+
 
 ###
 <div align="center">
