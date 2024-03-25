@@ -38,29 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo" />     
 </div>
 
-<script>
-  // Fetch repository data from GitHub API
-  fetch('https://api.github.com/users/gaikwadashutosh35/repos')
-    .then(response => response.json())
-    .then(data => {
-      const languages = data.map(repo => repo.language).filter(lang => lang); // Filter out null/undefined languages
-      const uniqueLanguages = [...new Set(languages)]; // Get unique languages
-
-      // Dynamically add skill icons for each language
-      const skillsContainer = document.querySelector('div[align="center"]');
-      uniqueLanguages.forEach(lang => {
-        const img = document.createElement('img');
-        img.src = `https://cdn.jsdelivr.net/gh/devicons/devicon/icons/${lang.toLowerCase()}/${lang.toLowerCase()}-original.svg`;
-        img.height = 30;
-        img.alt = `${lang} logo`;
-        skillsContainer.appendChild(img);
-        const space = document.createElement('img');
-        space.width = 12;
-        skillsContainer.appendChild(space);
-      });
-    })
-    .catch(error => console.error('Error fetching repository data:', error));
-</script>
 ###
 
 
