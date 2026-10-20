@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=220&section=header&text=Ashutosh%20Gaikwad&fontSize=52&fontColor=EDE9FE&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20AI&descAlignY=56&descSize=17" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=220&section=header&text=Ashutosh%20Gaikwad&fontSize=52&fontColor=EDE9FE&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20AI&descAlignY=56&descSize=17" width="100%"/></picture>
 
 <a href="https://github.com/gaikwadashutosh35">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Assistant+Technical+Services+Engineer+%40+Fujitsu;Full+Stack+Developer+%7C+Java+%C2%B7+Spring+Boot+%C2%B7+React;API+Engineering+%7C+Angular+%7C+GraphQL+%7C+SQL;Building+with+AI+%26+LLMs" alt="Typing SVG"/>
@@ -8,10 +8,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E.-Computer%20Engineering-7C3AED?style=flat-square&labelColor=1E1B4B"/>
-<img src="https://img.shields.io/badge/PICT-Pune%20Institute%20of%20Computer%20Technology-6366F1?style=flat-square&labelColor=1E1B4B"/>
-<img src="https://img.shields.io/badge/Class%20of-2021-8B5CF6?style=flat-square&labelColor=1E1B4B"/>
-<img src="https://img.shields.io/badge/Location-Pune%2C%20India-4F46E5?style=flat-square&labelColor=1E1B4B&logo=googlemaps&logoColor=white"/>
+<picture><img src="https://img.shields.io/badge/B.E.-Computer%20Engineering-7C3AED?style=flat-square&labelColor=1E1B4B"/></picture>
+<picture><img src="https://img.shields.io/badge/PICT-Pune%20Institute%20of%20Computer%20Technology-6366F1?style=flat-square&labelColor=1E1B4B"/></picture>
+<picture><img src="https://img.shields.io/badge/Class%20of-2021-8B5CF6?style=flat-square&labelColor=1E1B4B"/></picture>
+<picture><img src="https://img.shields.io/badge/Location-Pune%2C%20India-4F46E5?style=flat-square&labelColor=1E1B4B&logo=googlemaps&logoColor=white"/></picture>
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=gaikwadashutosh35&style=flat-square&color=7C3AED&label=Profile+Views"/>
+<picture><img src="https://komarev.com/ghpvc/?username=gaikwadashutosh35&style=flat-square&color=7C3AED&label=Profile+Views"/></picture>
 <a href="https://github.com/gaikwadashutosh35?tab=followers"><img src="https://img.shields.io/github/followers/gaikwadashutosh35?style=flat-square&color=6366F1&labelColor=1E1B4B&label=Followers&logo=github"/></a>
 <a href="https://github.com/gaikwadashutosh35?tab=repositories"><img src="https://img.shields.io/github/stars/gaikwadashutosh35?style=flat-square&color=8B5CF6&labelColor=1E1B4B&label=Stars&logo=github"/></a>
 
@@ -56,19 +56,19 @@ Full Stack Engineering · Backend & API Engineering · AI / LLM Product Engineer
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp&theme=dark" />
+<picture><img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp&theme=dark" /></picture>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,redux,angular,html,css,tailwind&theme=dark" />
+<picture><img src="https://skillicons.dev/icons?i=react,redux,angular,html,css,tailwind&theme=dark" /></picture>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=spring,graphql,kafka,mysql,mongodb&theme=dark" />
+<picture><img src="https://skillicons.dev/icons?i=spring,graphql,kafka,mysql,mongodb&theme=dark" /></picture>
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=azure,powershell,maven,git,github,postman,idea,vscode&theme=dark" />
+<picture><img src="https://skillicons.dev/icons?i=azure,powershell,maven,git,github,postman,idea,vscode&theme=dark" /></picture>
 
 </div>
 
@@ -78,11 +78,11 @@ Full Stack Engineering · Backend & API Engineering · AI / LLM Product Engineer
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
-| **LLM Application Development** | ![](https://img.shields.io/badge/-Applied-7C3AED?style=flat-square) | Integrating LLM APIs into web products, prompt design, AI chatbot features |
-| **AI Chatbot Integration** | ![](https://img.shields.io/badge/-Applied-7C3AED?style=flat-square) | Real-time market-data assistant inside the Crypto Trading Platform |
-| **Machine Learning** | ![](https://img.shields.io/badge/-Foundational-6366F1?style=flat-square) | Machine Learning Internship at Verzeo — supervised learning workflows in Python |
-| **AI for FinTech** | ![](https://img.shields.io/badge/-Research-8B5CF6?style=flat-square) | Evaluated ML approaches for credit-risk assessment (Citi job simulation) |
-| **Agentic AI & MCP** | ![](https://img.shields.io/badge/-Exploring-4F46E5?style=flat-square) | Model Context Protocol servers, tool-connected agents, RAG patterns |
+| **LLM Application Development** | <picture><img src="https://img.shields.io/badge/-Applied-7C3AED?style=flat-square"/></picture> | Integrating LLM APIs into web products, prompt design, AI chatbot features |
+| **AI Chatbot Integration** | <picture><img src="https://img.shields.io/badge/-Applied-7C3AED?style=flat-square"/></picture> | Real-time market-data assistant inside the Crypto Trading Platform |
+| **Machine Learning** | <picture><img src="https://img.shields.io/badge/-Foundational-6366F1?style=flat-square"/></picture> | Machine Learning Internship at Verzeo — supervised learning workflows in Python |
+| **AI for FinTech** | <picture><img src="https://img.shields.io/badge/-Research-8B5CF6?style=flat-square"/></picture> | Evaluated ML approaches for credit-risk assessment (Citi job simulation) |
+| **Agentic AI & MCP** | <picture><img src="https://img.shields.io/badge/-Exploring-4F46E5?style=flat-square"/></picture> | Model Context Protocol servers, tool-connected agents, RAG patterns |
 
 ---
 
@@ -181,7 +181,7 @@ Delivering full stack enterprise applications across Java backends and modern Ja
 - Design and implement APIs and manage database interactions for seamless data flow
 - Mentor junior developers, improving their growth and overall team productivity
 
-<img src="https://img.shields.io/badge/Java-1E1B4B?style=flat-square&logo=openjdk&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Spring%20Boot-1E1B4B?style=flat-square&logo=springboot&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Angular-1E1B4B?style=flat-square&logo=angular&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/React-1E1B4B?style=flat-square&logo=react&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Microservices-1E1B4B?style=flat-square&logo=apachekafka&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Mentoring-1E1B4B?style=flat-square"/>
+<picture><img src="https://img.shields.io/badge/Java-1E1B4B?style=flat-square&logo=openjdk&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/Spring%20Boot-1E1B4B?style=flat-square&logo=springboot&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/Angular-1E1B4B?style=flat-square&logo=angular&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/React-1E1B4B?style=flat-square&logo=react&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/Microservices-1E1B4B?style=flat-square&logo=apachekafka&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/Mentoring-1E1B4B?style=flat-square"/></picture>
 
 <br/>
 
@@ -194,7 +194,7 @@ Built web interfaces and data APIs for enterprise clients.
 - Built APIs using PowerShell, SQL Server and GraphQL for efficient data management
 - Managed data through SQL to ensure reliable integration and functionality
 
-<img src="https://img.shields.io/badge/React-1E1B4B?style=flat-square&logo=react&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/GraphQL-1E1B4B?style=flat-square&logo=graphql&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/SQL%20Server-1E1B4B?style=flat-square&logo=microsoftsqlserver&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/PowerShell-1E1B4B?style=flat-square&logo=powershell&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/AI-1E1B4B?style=flat-square&logo=openai&logoColor=A78BFA"/>
+<picture><img src="https://img.shields.io/badge/React-1E1B4B?style=flat-square&logo=react&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/GraphQL-1E1B4B?style=flat-square&logo=graphql&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/SQL%20Server-1E1B4B?style=flat-square&logo=microsoftsqlserver&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/PowerShell-1E1B4B?style=flat-square&logo=powershell&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/AI-1E1B4B?style=flat-square&logo=openai&logoColor=A78BFA"/></picture>
 
 <br/>
 
@@ -206,7 +206,7 @@ Hands-on introduction to machine learning model development.
 - Worked through end-to-end machine learning workflows in Python
 - Completed the program with an internship certificate
 
-<img src="https://img.shields.io/badge/Python-1E1B4B?style=flat-square&logo=python&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Machine%20Learning-1E1B4B?style=flat-square&logo=scikitlearn&logoColor=A78BFA"/>
+<picture><img src="https://img.shields.io/badge/Python-1E1B4B?style=flat-square&logo=python&logoColor=A78BFA"/></picture> <picture><img src="https://img.shields.io/badge/Machine%20Learning-1E1B4B?style=flat-square&logo=scikitlearn&logoColor=A78BFA"/></picture>
 
 ---
 
@@ -230,28 +230,28 @@ Hands-on introduction to machine learning model development.
 
 **Forage — Job Simulations**
 
-<img src="https://img.shields.io/badge/J.P.%20Morgan-Software%20Engineering-7C3AED?style=flat-square&labelColor=1E1B4B"/>
-<img src="https://img.shields.io/badge/Citi-Technology%20Software%20Development-7C3AED?style=flat-square&labelColor=1E1B4B"/>
-<img src="https://img.shields.io/badge/Wells%20Fargo-Software%20Engineering-7C3AED?style=flat-square&labelColor=1E1B4B"/>
+<a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_69345410187d49737fe80dee_1765194303997_completion_certificate.pdf"><img src="https://img.shields.io/badge/J.P.%20Morgan-Software%20Engineering-7C3AED?style=flat-square&labelColor=1E1B4B"/></a>
+<a href="https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/2jxESPvorR7fmypXj_8eNRcRqBZM9HLvwGw_69345410187d49737fe80dee_1784530486513_completion_certificate.pdf"><img src="https://img.shields.io/badge/Citi-Technology%20Software%20Development-7C3AED?style=flat-square&labelColor=1E1B4B"/></a>
+<a href="https://www.theforage.com/completion-certificates/nkmk7gJitYs4TBvoA/9Wvq4L2WCFQDyyPp3_nkmk7gJitYs4TBvoA_69345410187d49737fe80dee_1784554468263_completion_certificate.pdf"><img src="https://img.shields.io/badge/Wells%20Fargo-Software%20Engineering-7C3AED?style=flat-square&labelColor=1E1B4B"/></a>
 
 **SAP**
 
-<img src="https://img.shields.io/badge/SAP-ABAP%20Programming%20on%20SAP%20BTP-6366F1?style=flat-square&logo=sap&labelColor=1E1B4B"/>
-<img src="https://img.shields.io/badge/SAP-Discovering%20SAP%20BTP-6366F1?style=flat-square&logo=sap&labelColor=1E1B4B"/>
-<img src="https://img.shields.io/badge/SAP-Clean%20Core%20for%20S%2F4HANA%20Cloud-6366F1?style=flat-square&logo=sap&labelColor=1E1B4B"/>
+<a href="https://www.credly.com/badges/2c24289d-a9ca-4454-8100-6cb237058c99"><img src="https://img.shields.io/badge/SAP-ABAP%20Programming%20on%20SAP%20BTP-6366F1?style=flat-square&logo=sap&labelColor=1E1B4B"/></a>
+<a href="https://www.credly.com/badges/31150d8f-b053-4033-a476-c14ec9e31ed6"><img src="https://img.shields.io/badge/SAP-Discovering%20SAP%20BTP-6366F1?style=flat-square&logo=sap&labelColor=1E1B4B"/></a>
+<a href="https://www.credly.com/badges/27d72018-7c0b-4ea0-a45e-4466f5747bc5"><img src="https://img.shields.io/badge/SAP-Clean%20Core%20for%20S%2F4HANA%20Cloud-6366F1?style=flat-square&logo=sap&labelColor=1E1B4B"/></a>
 
 **Microsoft**
 
-<img src="https://img.shields.io/badge/Microsoft-Get%20Started%20with%20React-8B5CF6?style=flat-square&logo=microsoft&labelColor=1E1B4B"/>
-<img src="https://img.shields.io/badge/Microsoft-Microsoft%20Graph-8B5CF6?style=flat-square&logo=microsoft&labelColor=1E1B4B"/>
+<a href="https://learn.microsoft.com/en-gb/users/ashutoshgaikwad-5149/achievements/8fanpkgw"><img src="https://img.shields.io/badge/Microsoft-Get%20Started%20with%20React-8B5CF6?style=flat-square&logo=microsoft&labelColor=1E1B4B"/></a>
+<a href="https://learn.microsoft.com/en-gb/users/ashutoshgaikwad-5149/achievements/hape5eg8"><img src="https://img.shields.io/badge/Microsoft-Microsoft%20Graph-8B5CF6?style=flat-square&logo=microsoft&labelColor=1E1B4B"/></a>
 
 **Google**
 
-<img src="https://img.shields.io/badge/Google-CSS-4F46E5?style=flat-square&logo=google&labelColor=1E1B4B"/>
+<a href="https://developers.google.com/profile/badges/playlists/webdev/learn-css"><img src="https://img.shields.io/badge/Google-CSS-4F46E5?style=flat-square&logo=google&labelColor=1E1B4B"/></a>
 
 **LinkedIn Learning**
 
-<img src="https://img.shields.io/badge/LinkedIn-Angular%3A%20Material%20Design-4F46E5?style=flat-square&logo=linkedin&labelColor=1E1B4B"/>
+<a href="https://www.linkedin.com/learning/certificates/faf2381d371b38787e88316f361bd7f3e07ada2679f972cc1cf8ad9ee08e8ceb/"><img src="https://img.shields.io/badge/LinkedIn-Angular%3A%20Material%20Design-4F46E5?style=flat-square&logo=linkedin&labelColor=1E1B4B"/></a>
 
 ---
 
@@ -259,10 +259,10 @@ Hands-on introduction to machine learning model development.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gaikwadashutosh35&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&border_radius=10"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadashutosh35&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_radius=10"/>
+<picture><img height="180" src="https://github-readme-stats.vercel.app/api?username=gaikwadashutosh35&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&border_radius=10"/></picture>
+<picture><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadashutosh35&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_radius=10"/></picture>
 
-<img src="https://streak-stats.demolab.com?user=gaikwadashutosh35&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=8B5CF6&stroke=4C1D95&border_radius=10"/>
+<picture><img src="https://streak-stats.demolab.com?user=gaikwadashutosh35&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=8B5CF6&stroke=4C1D95&border_radius=10"/></picture>
 
 </div>
 
@@ -272,7 +272,7 @@ Hands-on introduction to machine learning model development.
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=gaikwadashutosh35&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+<picture><img src="https://github-trophies.vercel.app/?username=gaikwadashutosh35&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6"/></picture>
 
 </div>
 
@@ -282,7 +282,7 @@ Hands-on introduction to machine learning model development.
 
 <div align="center">
 
-<img src="https://github-activity-graph.vercel.app/graph?username=gaikwadashutosh35&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&radius=10&custom_title=Contribution%20Activity"/>
+<picture><img src="https://github-activity-graph.vercel.app/graph?username=gaikwadashutosh35&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&radius=10&custom_title=Contribution%20Activity"/></picture>
 
 </div>
 
@@ -343,6 +343,6 @@ open_to:
 
 *"Simple systems, built well, outlast clever ones."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:1E1B4B&height=120&section=footer" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:1E1B4B&height=120&section=footer" width="100%"/></picture>
 
 </div>
