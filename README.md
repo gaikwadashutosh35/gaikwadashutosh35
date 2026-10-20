@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<picture><img src="https://komarev.com/ghpvc/?username=gaikwadashutosh35&style=flat-square&color=7C3AED&label=Profile+Views"/></picture>
+<picture><img src="https://visitor-badge.laobi.icu/badge?page_id=gaikwadashutosh35.gaikwadashutosh35&left_text=Profile%20Views&left_color=%231E1B4B&right_color=%237C3AED"/></picture>
 <a href="https://github.com/gaikwadashutosh35?tab=followers"><img src="https://img.shields.io/github/followers/gaikwadashutosh35?style=flat-square&color=6366F1&labelColor=1E1B4B&label=Followers&logo=github"/></a>
 <a href="https://github.com/gaikwadashutosh35?tab=repositories"><img src="https://img.shields.io/github/stars/gaikwadashutosh35?style=flat-square&color=8B5CF6&labelColor=1E1B4B&label=Stars&logo=github"/></a>
 
